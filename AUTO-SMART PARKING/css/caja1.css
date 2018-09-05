@@ -1,0 +1,74 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*.body{
+	background-color: #F10609;
+	display:block;
+	position:relative;
+	background-repeat: no-repeat;
+}*/
+.principal{
+	background:#FDFCFC; /*url(../imagenes/Encabezado1.jpg)*/
+	display:block;
+	height: 80px;
+	position:relative;
+}
+.facebook{
+	display: inline-block;
+	position:absolute;
+	bottom: 0;
+	top: 15px;
+	left: 1110px;
+}
+.linkedin{
+	display: inline-block;
+	position:absolute;
+	bottom: 0;
+	top: 21px;
+	left: 1165px;
+}
+.twitter{
+	display: inline-block;
+	position:absolute;
+	bottom: 0;
+	top: 15px;
+	left: 1210px;
+}
+.enunciado{
+	color: #BC0003;
+	font-family: Arial;
+	font-size: 40px;
+	text-align: center;
+	font-weight: bold;
+	top: 8px;
+	position: relative;
+	display:block;
+}
+.sesion{
+	color: #000000;
+	font-family: Arial;
+	font-weight: bold;
+	top:-70px;
+	left: 400px;
+	position: relative;
+	display: block;
+}
+.contactanos{
+	color: #000000;
+	font-family: Arial;
+	font-weight: bold;
+	top:-110px;
+	left: 600px;
+	position: relative;
+	display: block;
+}
+.conocenos{
+	color: #000000;
+	font-family: Arial;
+	font-weight: bolder;
+	top: -150px;
+	left: 780px;
+	position: relative;
+	display: block;
+}
+
